@@ -1,0 +1,29 @@
+fundo da página preto
+
+div
+    largura 500px
+    margem 30px auto
+
+
+h1 
+   28px
+
+
+img 
+    largura 500px
+    borda 5px solid #009200
+
+
+span   
+    borda esquerda 3px solid #009200
+    borda inferior 3px solid #009200
+
+
+h1, parágrafo e span
+    fonte Verdana
+    cor #ffffff
+
+
+
+parágrafo e span
+    18px

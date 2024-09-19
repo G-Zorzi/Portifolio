@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(/img/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+
+:root {
+    --text-color: rgb(255, 247, 209);
+    --p-size: 24px;
+    --theme-color: rgb(250, 218, 37);
+    --h1-size: 40px;
+}
+h1 {
+    color: var(--theme-color);
+    font-size: var(--h1-size);
+    text-shadow: 3px 3px 5px black;
+}
+p {
+    color: var(--text-color);
+    font-size: var(--p-size);
+}
+.secao-topo {
+    height: 100px;
+    display: grid;
+    place-items: center;
+    .topo {
+        font-weight: bold;
+    }
+}
+img {
+
+    min-width: 600px;
+    border: 1px solid var(--theme-color);
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+.secao {
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    .texto_descricao {
+        margin-top: 5px;
+        width: 1000px;
+    }
+
+    .box_compra {
+        margin-top: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        .reserva {
+            font-size: calc(var(--p-size) - 1px);
+        }
+    }
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: calc(var(--p-size) + 1px);
+    margin-top: 5px;
+    color: var(--theme-color);
+    text-shadow: 2px 2px 5px black;
+}

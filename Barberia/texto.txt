@@ -1,0 +1,73 @@
+aplicar uma cor de fundo no body - #f1f1f1
+
+a imagem tem largura de 190px
+
+sobre as divs
+-tem largura de 600px
+-margem - 0 auto
+-alinhamento do texto : centro
+
+Título H1
+Conteúdo: O lugar que faz seu estilo
+tamanho da fonte - 24px
+fonte - verdana
+cor - #606062
+espaçamento interno - 10px
+borda - 5px solida #606062
+
+
+Subtítulo H2
+Conteúdo: Venha conhecer nossos serviços e ver todas as vantagens de assinar o nosso plano
+tamanho da fonte - 20px;
+fonte - Verdana;
+cor - #7a797b;
+margem - 35px 20px;
+
+
+Subtítulo H3
+Conteúdo: NOSSOS SERVIÇOS
+fonte - 18px;
+fonte - Verdana;
+cor - #606062;
+espaçamento interno - 10px 0;
+margin-top - 30px;
+border-top - 2px solid #606062;
+border-bottom - 2px solid #606062;
+
+Parágrafo parágrafo
+Conteúdo: Somos especializados em cortes masculinos oferecendo um serviço moderno e de qualidade. Temos uma grande variedade de tipos de corte especiais para nossos clientes. Também temos um plano que oferece muitas vantagens para nossa clientela.
+tamanho da fonte - 18px;
+fonte - Verdana;
+alinhamento do texto - justify;
+altura da linha - 32px; (line-height)
+cor - #616163;
+margin-bottom: 35px;
+
+
+
+Subtítulo H3
+Conteúdo: CONTATO
+
+Parágrafo
+Conteúdo: Você pode entrar em contato conosco através do email contato@barbeariastylus.com.br ou através do telefone (21) 99999-9999 (WhatsApp)
+tamanho da fonte - 18px;
+fonte - Verdana;
+alinhamento do texto - justify;
+altura da fonte 32px;
+cor - #616163;
+margin-bottom - 35px;
+
+
+
+Link
+Conteúdo: Fale conosco no WhatsApp
+Url do link: https://api.whatsapp.com/send?phone=999999999&text=Send20%a20%quote"
+tamanho da fonte - 16px;
+fonte - 'Verdana';
+largura da fonte - bold;
+retirar o sublinhado
+espaçamento interno - 10px 15px;
+margin-top - 15px;
+cor - #ffffff;
+background-color - #25D366;
+borda arredondada - 25px;

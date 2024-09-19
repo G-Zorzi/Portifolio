@@ -1,0 +1,38 @@
+Estrutura do projeto
+DIV
+	H1
+	IMG
+	IMG
+	P
+	P A A
+/DIV
+
+
+o projeto contém uma DIV
+largura da div - 600px
+margem 50px auto
+
+h1
+24px
+fonte - georgia
+texto alinhado ao centro
+
+imagem
+largura de 265px
+margem direita 15px
+margem esquerda 15px
+
+parágrafo
+16px
+fonte - lucida Sans
+alinhamento do texto justificado
+
+span
+largura da fonte bold
+
+link
+margem de 15px em todos os lados
+
+
+
+
